@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Thora\Site\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class SiteCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'site';
 
     public $description = 'My command';
 
